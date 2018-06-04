@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GearVRFramework/GearVRFramework.iml" filepath="$PROJECT_DIR$/GearVRFramework/GearVRFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shadercam/shadercam.iml" filepath="$PROJECT_DIR$/shadercam/shadercam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shadercam-example/shadercam-example.iml" filepath="$PROJECT_DIR$/shadercam-example/shadercam-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shadercam-master 2.iml" filepath="$PROJECT_DIR$/shadercam-master 2.iml" />
+    </modules>
+  </component>
+</project>
